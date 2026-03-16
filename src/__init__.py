@@ -1,6 +1,6 @@
-from dataquick.analyzer import DataAnalyzer
-from dataquick.cleaner import DataCleaner
-from dataquick.visualizer import DataVisualizer
+from .analyzer import DataAnalyzer
+from .cleaner import DataCleaner
+from .visualizer import DataVisualizer
 
 def analyze(df):
     """Run full auto analysis on a DataFrame"""
