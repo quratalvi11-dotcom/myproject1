@@ -14,5 +14,5 @@ def visualize(df):
     visualizer = DataVisualizer(df)
     visualizer.visualize()
 
-__version__ = "0.1.0"
+__version__ = "0.1.1"
 __author__ = "quratalvi11-dotcom"

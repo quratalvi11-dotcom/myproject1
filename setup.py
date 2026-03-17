@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
     name="dataquick",
-    version="0.1.0",
+    version="0.1.1",
     author="quratalvi11-dotcom",
     description="A fast and easy Auto EDA library for data scientists",
     long_description=open("README.md").read(),
