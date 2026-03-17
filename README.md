@@ -1,4 +1,4 @@
-# DataQuick 🚀
+# DataQuick 
 
 [![PyPI version](https://badge.fury.io/py/dataquick.svg)](https://pypi.org/project/dataquick/)
 [![Python](https://img.shields.io/pypi/pyversions/dataquick)](https://pypi.org/project/dataquick/)
